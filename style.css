@@ -1,0 +1,77 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none; 
+    border: none;
+    text-transform: capitalize;
+    text-decoration: none;
+  
+}
+ .container   {
+    max-width: 1200px;
+    padding: 2rem;
+    margin: 0 auto;
+ }
+ .admin-product-form-container form{
+    max-width: 50rem;
+    padding: 2rem;
+    margin: 0 auto;
+    border-radius: .5rem;
+    background: rgba(145, 139, 139, 0.897);
+   
+    
+ }
+ 
+ .admin-product-form-container form  h3 {
+    text-transform: uppercase; 
+    color: #4723D9; 
+    margin-bottom: 1rem;
+   text-align: center; 
+   font-size: 2.5rem;
+}
+
+.admin-product-form-container form  .box {
+ width: 100%; 
+ border-radius: .5rem;
+ padding: 1.6rem 1.5rem;
+ font-size: 1.7rem;
+ margin: 1rem 0 ;
+ margin-top: 30px;
+ background: white;
+ border-radius: 10%;
+}
+ html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+ }
+ 
+    
+.btn {
+    display: block;
+    width: 100%; 
+    cursor: pointer; 
+    border-radius: .5rem; 
+    margin-top: 1rem; 
+    font-size: 1.7rem;
+    padding: 1rem 3rem; 
+    background: rgb(103, 103, 202);
+}
+.btn:hover {
+    background: rgb(34, 33, 33) ;
+}
+
+
+
+
+ .message {
+    display: block;
+    background: #148623;
+    padding: 1.5rem 1rem;
+    font-size: 2rem;
+    color: aliceblue; 
+    margin-bottom: 2.5rems;
+    text-align: center;
+ }
+  
